@@ -76,4 +76,4 @@ Our prototype has **3 awesome modules**:
 
 ---
 
-Made with ❤️, ⚛️, and a pinch of quirky quantum magic!  
+Made with ❤️, ⚛️, and a pinch of quirky quantum magic by The Quantum Coders!  
