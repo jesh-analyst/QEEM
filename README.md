@@ -33,7 +33,8 @@ Our prototype has **3 awesome modules**:
 
 - First-ever **quantum HR framework** 🌐  
 - Handles **millions of candidate-job combinations** effortlessly 💪  
-- Potential for patents, IP, and **nationwide scalability** 🇮🇳  
+- Potential for patents, IP, and **nationwide scalability** 🇮🇳
+- Including **Growth analysis,Interview Guidance,Retention risk**
 
 ---
 
@@ -41,12 +42,13 @@ Our prototype has **3 awesome modules**:
 
 - Traditional systems = ❌ failed at complex matching  
 - Classical ML = ⚠️ limited scalability  
-- QEEM = ✅ **high accuracy, faster speed, and reduced bias**  
+- QEEM = ✅ **high accuracy, faster speed,improved career alignment and reduced bias**  
 
 **Users benefit:**  
 - Recruiters: Faster shortlisting ⏱️  
 - HR Departments: Better retention & reduced attrition 📉  
-- Governments & Industries: Smarter workforce planning 🏢  
+- Governments & Industries: Smarter workforce planning 🏢
+- Cabdidates :Better job matches,clear growth plans and interview guidance
 
 **Bonus:** Can extend to student-course allocation, project teams, resource scheduling… basically anything that needs **smart matching**! 🎯  
 
