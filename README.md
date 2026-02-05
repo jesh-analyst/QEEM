@@ -1,4 +1,4 @@
-# 🚀 QEEM – Quantum-Powered Job Matching
+# 🚀 QEEM – AI & Quantum-Powered career intelligence platform
 
 Welcome to **QEEM** – where **quantum computing meets HR magic**! ✨  
 Say goodbye to boring keyword filters and hello to smarter, fairer, and faster workforce matching. 🧑‍💻💼
